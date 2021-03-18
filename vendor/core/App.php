@@ -4,13 +4,16 @@
 namespace vendor\core;
 
 use vendor\core\Registry;
+use vendor\core\ErrorHandler;
+
 class App
 {
     public static $app;
 
     public function __construct()
     {
-        self::$app = \vendor\core\Registry::instance();
+        self::$app = Registry::instance();
+        new \vendor\core\ErrorHandler();
     }
 
 }

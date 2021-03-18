@@ -1,0 +1,10 @@
+[2021-03-17 09:44:06] Текст ошибки: Undefined variable: test | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\public\test\error\index.php | строка: 57
+==============
+[2021-03-17 09:44:55] Текст ошибки: Undefined variable: test | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\public\test\error\index.php | строка: 57
+==============
+[2021-03-17 09:45:58] Текст ошибки: Call to undefined function test() | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\public\test\error\index.php | строка: 58
+==============
+[2021-03-17 09:46:39] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\public\test\error\index.php | строка: 68
+==============
+[2021-03-17 09:47:38] Текст ошибки: Упс, исключение | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\public\test\error\index.php | строка: 67
+==============

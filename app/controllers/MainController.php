@@ -3,6 +3,7 @@
 
 use app\models\Main;
 use vendor\core\App;
+use vendor\core\base\View;
 
 /**
  * различные методы для получения запросов
@@ -12,32 +13,39 @@ use vendor\core\App;
  */
 class MainController extends AppController
 {
-   // public $layout = 'main';
+    // public $layout = 'main';
 
     public function indexAction()
     {
-        App::$app->getList();
-        //$this->layout = false;
-    //$this->layout = 'main'; // default стили по умолчанию
-    //$this->view = 'test';
+        //\R::fancyDebug(true);
         $model = new Main;
-        $posts = \R::findAll('posts');
-        App::$app->cache->set('posts', $posts);
-        echo date('Y-m-d H:i', time());
-        echo '<br>';
-        echo date('Y-m-d H:i', );
+        //echo $test;
+
+        //trigger_error("E_USER_ERROR", E_USER_ERROR);
+        $posts = \R::findAll('posts'); //получаем запрос к базе данных
         $post = \R::findOne('posts', 'id = 1');
-        //debug($post);
-      $menu = $this->menu;
+        $menu = $this->menu;
         $title = 'PAGE TITLE';
-        $this->setMeta('Главная страница', 'Описание страницы', 'Ключевые слова');
-       // $this->setMeta($post->title, $post->description, $post->keywords);
-        $meta = $this->meta;
+        //$this->setMeta('Главная страница', 'Описание страницы', 'Ключевые слова');
+        //$meta = $this->meta;
+        View::setMeta('Главная страница', 'Описание страницы', 'Ключевые слова');
         $this->set(compact('title', 'posts', 'menu', 'meta'));
     }
-    public function testAction(){
 
-    $this->layout = 'test';
+    public function testAction()
+    {
+        if ($this->isAjax()) {
+         $model = new Main;
+         //echo $test;
+//         $data = ['answer' => 'Ответ с сервера', 'code' => 200];
+//         echo json_encode($data);
+         $post = \R::findOne('posts', "id = {$_POST['id']}");
+         $this->loadView('_test', compact('post'));
+
+            die;
+        }
+        echo 222;
+
     }
 }
 

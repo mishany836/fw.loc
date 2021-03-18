@@ -1,0 +1,100 @@
+[2021-03-17 21:05:45] Текст ошибки: Undefined property: Exception::$getLine | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\ErrorHandler.php | строка: 41
+==============
+[2021-03-17 21:08:19] Текст ошибки: Undefined property: Exception::$getMessage | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\ErrorHandler.php | строка: 41
+==============
+[2021-03-17 21:09:37] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\Router.php | строка: 100
+==============
+[2021-03-17 21:09:37] Текст ошибки: require(C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\public/errors/404.html): failed to open stream: No such file or directory | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\ErrorHandler.php | строка: 53
+==============
+[2021-03-17 21:14:13] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\Router.php | строка: 100
+==============
+[2021-03-17 21:17:18] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\Router.php | строка: 100
+==============
+[2021-03-17 21:17:33] Текст ошибки: Undefined variable: test | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 22
+==============
+[2021-03-17 21:18:03] Текст ошибки: Undefined variable: test | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 22
+==============
+[2021-03-17 21:20:28] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\Router.php | строка: 100
+==============
+[2021-03-17 22:33:34] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\Router.php | строка: 100
+==============
+[2021-03-18 09:34:11] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:37:04] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:37:10] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:37:46] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:37:48] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:39:07] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:39:10] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:39:25] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:39:26] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\Router.php | строка: 100
+==============
+[2021-03-18 09:39:35] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:39:39] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:39:54] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:39:57] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:40:18] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:40:21] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:40:31] Текст ошибки: syntax error, unexpected '$post' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 40
+==============
+[2021-03-18 09:45:06] Текст ошибки: syntax error, unexpected '$posts' (T_VARIABLE) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 23
+==============
+[2021-03-18 09:56:14] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\Router.php | строка: 100
+==============
+[2021-03-18 09:59:27] Текст ошибки: Undefined variable: test | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 22
+==============
+[2021-03-18 10:02:51] Текст ошибки: Undefined variable: test | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 22
+==============
+[2021-03-18 10:03:24] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\Router.php | строка: 100
+==============
+[2021-03-18 10:19:46] Текст ошибки: Undefined variable: test | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 22
+==============
+[2021-03-18 10:20:04] Текст ошибки: Undefined variable: test | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 22
+==============
+[2021-03-18 10:21:03] Текст ошибки: Undefined variable: test | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 22
+==============
+[2021-03-18 10:21:03] Текст ошибки: Call to undefined function app\controllers\test() | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 23
+==============
+[2021-03-18 10:24:20] Текст ошибки: E_USER_ERROR | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 24
+==============
+[2021-03-18 10:26:11] Текст ошибки: E_USER_ERROR | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 24
+==============
+[2021-03-18 10:27:05] Текст ошибки: E_USER_ERROR | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 24
+==============
+[2021-03-18 10:27:41] Текст ошибки: E_USER_ERROR | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 24
+==============
+[2021-03-18 10:30:35] Текст ошибки: E_USER_ERROR | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 24
+==============
+[2021-03-18 10:31:01] Текст ошибки: E_USER_ERROR | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\MainController.php | строка: 24
+==============
+[2021-03-18 11:40:30] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\Router.php | строка: 100
+==============
+[2021-03-18 11:40:38] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\Router.php | строка: 100
+==============
+[2021-03-18 11:44:08] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1103 Incorrect table name '' | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\libs\rb.php | строка: 834
+==============
+[2021-03-18 11:53:41] Текст ошибки: Maximum execution time of 180 seconds exceeded | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\libs\rb.php | строка: 814
+==============
+[2021-03-18 11:53:43] Текст ошибки: Maximum execution time of 180 seconds exceeded | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\libs\rb.php | строка: 814
+==============
+[2021-03-18 11:53:55] Текст ошибки: Maximum execution time of 180 seconds exceeded | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\libs\rb.php | строка: 810
+==============
+[2021-03-18 11:54:01] Текст ошибки: Maximum execution time of 180 seconds exceeded | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\libs\rb.php | строка: 4339
+==============
+[2021-03-18 11:54:55] Текст ошибки: Maximum execution time of 180 seconds exceeded | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\libs\rb.php | строка: 814
+==============
+[2021-03-18 11:54:56] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\core\Router.php | строка: 100
+==============
