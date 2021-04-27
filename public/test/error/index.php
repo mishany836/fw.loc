@@ -21,6 +21,7 @@ class ErrorHandler{
         register_shutdown_function([$this, 'fatalErrorHandler']);
         set_exception_handler([$this, 'exceptionHandler']);
     }
+
     public function errorHandler($errno, $errstr, $errfile, $errline){
         error_log("[" . date('Y-m-d H:i:s') . "] Текст ошибки: {$errstr} | файл: {$errfile} | строка: {$errline}\n==============\n", 3, __DIR__ . '/errors.log');
        $this->displayError($errno, $errstr, $errfile, $errline);

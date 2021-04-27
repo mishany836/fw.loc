@@ -3,6 +3,14 @@
   <component name="PhpIncludePathManager">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/core/base" />
+      <path value="$PROJECT_DIR$/vendor/fw/core" />
+      <path value="$PROJECT_DIR$/vendor/fw/Libs" />
+      <path value="$PROJECT_DIR$/vendor/fw/widgets" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/valitron" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7">

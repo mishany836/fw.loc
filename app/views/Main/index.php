@@ -1,42 +1,68 @@
-<script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-<div class="container">
-    <div id="answer"></div>
-        <button class="btn btn-default" id="send" >Кнопка</button>
-    <br>
-    <?php new \vendor\widgets\menu\Menu(); ?>
-        <?php if (!empty($posts)):?>
-        <?php foreach ($posts as $post): ?>
-            <div class="panel panel-default">
-                <div class="panel-heading" style="background-color: #c5d7f2" text align="center"><?=$post['title'] ?></div>
-                <div class="panel-body" style="background-color: #e9ecef" text align="center">
-                    <?=$post['text'] ?>
-                </div>
+
+<?php  if(!empty($posts)): ?>
+
+    <?php
+    $c = 1;
+    ?>
+    <div class="grid_s">
+    <?php foreach ($posts as $post): ?>
+        <div class="grid">
+              <img src="<?=$post['image']; ?>" alt="">
+            <h3><a href="<?=$post->id; ?>"><?=$post->title; ?></a></h3>
+            <div class="grid_p">
+                <p><?=$post->excerpt; ?></p>
+                <a  href="news/view/<?=$post['id']; ?>" class="button bg2 grid_btn"><?php __('read more');?></a>
             </div>
-        <?php endforeach; ?>
+        </div>
+        <?if ($c % 2 == 0):?>
+            </div><div class="grid_s">
+        <?endif; ?>
+        <?$c++;?>
+    <?php endforeach; ?>
+    </div>
+    <div class="clear"> </div>
+
+    <div class="text-center">
+        <p>Статей: <?=count($posts); ?> из <?=$total;?></p>
+        <?php if ($pagination->countPages > 1): ?>
+            <?=$pagination; ?>
         <?php endif; ?>
     </div>
-    <script src="/js/test.js"></script>
-    <script>
-    $(function () {
-        $("#send").click(function (){
-            $.ajax({
-                url: '/main/test',
-                method: 'post',
-                data: {'id': 2},
-                success: function (res) {
-                   // var data = JSON.parse(res);
-                   // $('#answer').html('<p>Ответ: ' + data.answer + ' | Код: '+ data.code + '</p>');
-                    $('#answer').html(res);
-                    //console.log(res);
-                },
-                error: function (){
-                    alert('Error!');
-                }
-            });
-        });
-    });
-    </script>
-<!--    <script src = "https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>-->
+<?php else: ?>
+    <h3>Posts not found...</h3>
+<?php endif; ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

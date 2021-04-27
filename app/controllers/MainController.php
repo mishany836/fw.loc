@@ -2,8 +2,12 @@
     namespace app\controllers;
 
 use app\models\Main;
-use vendor\core\App;
-use vendor\core\base\View;
+use fw\core\App;
+use fw\core\base\View;
+use fw\Libs\Pagination;
+use fw\widgets\language\Language;
+use Monolog\Handler\StreamHandler;
+use Monolog\Logger;
 
 /**
  * различные методы для получения запросов
@@ -13,39 +17,39 @@ use vendor\core\base\View;
  */
 class MainController extends AppController
 {
-    // public $layout = 'main';
-
     public function indexAction()
     {
-        //\R::fancyDebug(true);
         $model = new Main;
-        //echo $test;
 
-        //trigger_error("E_USER_ERROR", E_USER_ERROR);
-        $posts = \R::findAll('posts'); //получаем запрос к базе данных
-        $post = \R::findOne('posts', 'id = 1');
-        $menu = $this->menu;
-        $title = 'PAGE TITLE';
-        //$this->setMeta('Главная страница', 'Описание страницы', 'Ключевые слова');
-        //$meta = $this->meta;
-        View::setMeta('Главная страница', 'Описание страницы', 'Ключевые слова');
-        $this->set(compact('title', 'posts', 'menu', 'meta'));
+        $lang = (App::$app->getProperty('lang')['code']);
+         $total = \R::count('posts', 'lang_code = ?', [$lang]);
+        App::$app->setProperty('langs', Language::getLanguages());
+        App::$app->setProperty('lang', Language::getLanguage(App::$app->getProperty('langs')));
+
+        $total = \R::count('posts');
+        $page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
+        $perpage = 3;
+
+        $pagination = new Pagination($page, $perpage, $total);
+        $start = $pagination->getStart();
+
+        $posts = \R::findAll('posts', "lang_code = ? LIMIT $start, $perpage", [$lang]); //получаем запрос к базе данных
+        View::setMeta('Blog :: Главная страница', 'Описание страницы', 'Ключевые слова');
+
+        $this->set(compact('title', 'posts', 'pagination', 'total'));
+
+
     }
 
-    public function testAction()
-    {
-        if ($this->isAjax()) {
-         $model = new Main;
-         //echo $test;
-//         $data = ['answer' => 'Ответ с сервера', 'code' => 200];
-//         echo json_encode($data);
-         $post = \R::findOne('posts', "id = {$_POST['id']}");
-         $this->loadView('_test', compact('post'));
+    public function testAction(){
 
-            die;
+        if ($this->isAjax()) {
+            $model = new Main;
+            $post = \R::findOne('posts', "id = {$_POST['id']}");
+            $this->loadView('_test', compact('post'));
+        die;
         }
         echo 222;
-
     }
 }
 
