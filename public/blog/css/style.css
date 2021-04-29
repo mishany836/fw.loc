@@ -33,6 +33,17 @@ body {
 	font-size: 100%;
 	background:#ECF0F1;
 }
+
+
+
+
+.news_style{
+	font-family: 'Marcellus SC';
+	width: 65%;
+	margin-top: 20px;
+	margin-bottom: 40px;
+
+}
 .blog_detail{
 	background-color: #c2c7d0;
 	margin-top: 25px;

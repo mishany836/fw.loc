@@ -30,6 +30,8 @@
    Router::add('^news/view/(?P<id>[0-9]+)/?$', ['controller' => 'News', 'action' => 'view']);
    Router::add('^detail/view/(?P<id>[0-9]+)/?$', ['controller' => 'Detail', 'action' => 'view']);
    Router::add('^service/view/(?P<id>[0-9]+)/?$', ['controller' => 'Service', 'action' => 'index']);
+   Router::add('^us/view/(?P<id>[0-9]+)/?$', ['controller' => 'Us', 'action' => 'view']);
+   Router::add('^about/index/(?P<id>[0-9]+)/?$', ['controller' => 'About', 'action' => 'index']);
 /**
  * default routs
  * регулярка с указанными маршрутоми для admin

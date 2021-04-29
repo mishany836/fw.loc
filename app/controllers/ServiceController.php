@@ -11,7 +11,6 @@ class ServiceController extends AppController
 
     public function indexAction()
     {
-//       debug($this->route);
         $service = new Service();
        $service = \R::findAll('posts');
         $arNews = $service;

@@ -17,28 +17,11 @@ class AboutController extends AppController
 
     public function indexAction()
     {
+        $id = intval($this->route);
        $about = new About;
-
-        $lang = (App::$app->getProperty('lang')['code']);
-        $total = \R::count('posts', 'lang_code = ?', [$lang]);
-        App::$app->setProperty('langs', Language::getLanguages());
-        App::$app->setProperty('lang', Language::getLanguage(App::$app->getProperty('langs')));
-
-        $total = \R::count('about');
-        $page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
-        $perpage = 3;
-
-        $pagination = new Pagination($page, $perpage, $total);
-        $start = $pagination->getStart();
-
-        $posts = \R::findAll('posts', "lang_code = ? LIMIT $start, $perpage", [$lang]); //получаем запрос к базе данных
-        View::setMeta('About :: Главная страница', 'Описание страницы', 'Ключевые слова');
-
-        $this->set(compact('title', 'posts', 'pagination', 'total'));
+       $result = \R::findAll('pages', "WHERE id = 2", [$id]); //получаем запрос к базе данных
+        $this->set(['pages' => $result]);
 
     }
-    public function testAction()
-    {
 
-    }
 }

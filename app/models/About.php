@@ -8,11 +8,11 @@ use fw\core\base\Model;
 
 class About extends Model
 {
-    public $table = 'posts';
+    public $table = 'pages';
 
 
-    public function getNewsByCategory($categoryId){
-        $sql = \R::findAll('posts', ' WHERE category_id = ?');
-        return $this->query($sql, [$categoryId]);
+    public function getNewsByCategory($id){
+        $sql = \R::findOne('pages', " id = ?", [$id]);
+        return $this->query($sql, [$id]);
     }
 }

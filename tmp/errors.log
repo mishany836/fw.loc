@@ -8176,3 +8176,437 @@ Stack trace:
 ==============
 [2021-04-27 23:35:06] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
 ==============
+[2021-04-28 20:34:29] Текст ошибки: Контроллер <b>app\controllers\DetailsController</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 100
+==============
+[2021-04-28 21:14:34] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\AboutUsController.php | строка: 12
+==============
+[2021-04-28 21:15:17] Текст ошибки: Undefined variable: file_layout | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\base\View.php | строка: 82
+==============
+[2021-04-28 21:19:09] Текст ошибки: Контроллер <b>app\controllers\AboutUsController</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 100
+==============
+[2021-04-28 21:19:19] Текст ошибки: Undefined variable: file_layout | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\base\View.php | строка: 82
+==============
+[2021-04-28 21:28:24] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:28:24] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:28:24] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:28:24] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:28:34] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:28:34] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:28:34] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:28:34] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:28:34] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:28:54] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:28:54] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:28:54] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:28:54] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:28:54] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 21:46:29] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 12
+==============
+[2021-04-28 21:49:28] Текст ошибки: Undefined index:  | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 12
+==============
+[2021-04-28 21:50:03] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 12
+==============
+[2021-04-28 21:51:47] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\Libs\rb.php | строка: 834
+==============
+[2021-04-28 22:03:00] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\Libs\rb.php | строка: 834
+==============
+[2021-04-28 22:09:56] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 12
+==============
+[2021-04-28 22:10:02] Текст ошибки: Undefined variable: pages | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\About\index.php | строка: 23
+==============
+[2021-04-28 22:10:49] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 12
+==============
+[2021-04-28 22:13:09] Текст ошибки: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 14
+==============
+[2021-04-28 22:13:11] Текст ошибки: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 14
+==============
+[2021-04-28 22:13:33] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-28 22:14:20] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-28 22:14:24] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-28 22:14:41] Текст ошибки: Undefined variable: pages | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 22
+==============
+[2021-04-28 22:15:19] Текст ошибки: Too few arguments to function app\controllers\UsController::viewAction(), 0 passed in C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php on line 94 and exactly 1 expected | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 11
+==============
+[2021-04-28 22:15:43] Текст ошибки: Undefined variable: pages | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 22
+==============
+[2021-04-28 22:16:25] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 22:16:25] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 22:16:25] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 22:16:25] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 22:16:25] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 22:18:17] Текст ошибки: Метод <b>app\controllers\UsController::indexAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-28 22:21:55] Текст ошибки: Метод <b>app\controllers\UsController::indexAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-28 22:35:45] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\Libs\rb.php | строка: 834
+==============
+[2021-04-28 22:36:51] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause' | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\Libs\rb.php | строка: 834
+==============
+[2021-04-28 22:36:56] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-28 22:37:49] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-28 22:39:51] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\Libs\rb.php | строка: 9453
+==============
+[2021-04-28 22:40:53] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\Libs\rb.php | строка: 9453
+==============
+[2021-04-28 22:42:17] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\Libs\rb.php | строка: 9453
+==============
+[2021-04-28 22:42:57] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\Libs\rb.php | строка: 9453
+==============
+[2021-04-28 22:44:10] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\Libs\rb.php | строка: 9453
+==============
+[2021-04-28 22:44:10] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 22:44:16] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\Libs\rb.php | строка: 9453
+==============
+[2021-04-28 22:49:04] Текст ошибки: Undefined index: text | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 23
+==============
+[2021-04-28 22:49:31] Текст ошибки: Trying to get property of non-object | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 23
+==============
+[2021-04-28 22:54:27] Текст ошибки: Trying to get property of non-object | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 23
+==============
+[2021-04-28 22:54:31] Текст ошибки: Trying to get property of non-object | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 23
+==============
+[2021-04-28 22:59:09] Текст ошибки: Trying to get property of non-object | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 23
+==============
+[2021-04-28 22:59:12] Текст ошибки: Trying to get property of non-object | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 23
+==============
+[2021-04-28 22:59:14] Текст ошибки: Trying to get property of non-object | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 23
+==============
+[2021-04-28 22:59:21] Текст ошибки: Trying to get property of non-object | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 23
+==============
+[2021-04-28 22:59:22] Текст ошибки: Trying to get property of non-object | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 23
+==============
+[2021-04-28 22:59:32] Текст ошибки: Trying to get property of non-object | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 23
+==============
+[2021-04-28 22:59:41] Текст ошибки: Trying to get property of non-object | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 23
+==============
+[2021-04-28 23:00:35] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 23:01:01] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 23:01:01] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 23:01:01] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 23:01:20] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 23:01:20] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 23:01:20] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-28 23:01:21] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 10:01:51] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 10:02:06] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 10:02:06] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 10:02:06] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 10:02:06] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 10:02:06] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 10:03:08] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 10:15:46] Текст ошибки: syntax error, unexpected ')', expecting variable (T_VARIABLE) or '{' or '$' | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\About\index.php | строка: 1
+==============
+[2021-04-29 10:39:34] Текст ошибки: Undefined index: description | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\About\index.php | строка: 9
+==============
+[2021-04-29 10:40:08] Текст ошибки: Trying to get property of non-object | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\About\index.php | строка: 9
+==============
+[2021-04-29 10:43:29] Текст ошибки: syntax error, unexpected end of file | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\About\index.php | строка: 34
+==============
+[2021-04-29 18:41:39] Текст ошибки: Метод <b>app\controllers\UsController::viewsAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-29 18:41:52] Текст ошибки: Метод <b>app\controllers\UsController::viewsAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-29 18:41:58] Текст ошибки: Метод <b>app\controllers\UsController::viewsAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-29 18:42:02] Текст ошибки: Метод <b>app\controllers\UsController::viewsAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-29 18:42:49] Текст ошибки: Метод <b>app\controllers\UsController::viewsAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-29 18:43:09] Текст ошибки: Метод <b>app\controllers\UsController::viewsAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-29 18:43:14] Текст ошибки: Метод <b>app\controllers\UsController::viewsAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-29 18:43:39] Текст ошибки: Метод <b>app\controllers\UsController::viewsAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-29 18:43:46] Текст ошибки: Метод <b>app\controllers\UsController::viewsAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-29 18:43:49] Текст ошибки: Метод <b>app\controllers\UsController::viewsAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-29 18:44:02] Текст ошибки: Метод <b>app\controllers\UsController::viewsAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-29 18:44:06] Текст ошибки: Метод <b>app\controllers\UsController::viewsAction</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 97
+==============
+[2021-04-29 18:55:18] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 19:26:49] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:29:25] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:30:40] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:30:51] Текст ошибки: Undefined variable: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 15
+==============
+[2021-04-29 19:31:03] Текст ошибки: Undefined variable: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 15
+==============
+[2021-04-29 19:33:02] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:33:05] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:33:16] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:33:21] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:33:23] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:33:38] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:33:39] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 19:34:12] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:34:38] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:34:39] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:34:49] Текст ошибки: Undefined variable: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 15
+==============
+[2021-04-29 19:35:28] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:37:47] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:38:13] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:38:37] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:38:47] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:39:07] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:39:42] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:40:26] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:40:29] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:41:17] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:41:19] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:41:20] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:41:20] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:42:13] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:42:15] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:42:34] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 13
+==============
+[2021-04-29 19:45:06] Текст ошибки: Undefined variable: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\UsController.php | строка: 15
+==============
+[2021-04-29 19:45:28] Текст ошибки: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\Libs\rb.php | строка: 834
+==============
+[2021-04-29 19:49:30] Текст ошибки: Undefined index: text | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 26
+==============
+[2021-04-29 19:50:27] Текст ошибки: Trying to get property of non-object | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\Us\view.php | строка: 26
+==============
+[2021-04-29 19:55:57] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\About\index.php | строка: 13
+==============
+[2021-04-29 19:56:26] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\About\index.php | строка: 13
+==============
+[2021-04-29 19:57:51] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\About\index.php | строка: 13
+==============
+[2021-04-29 20:01:29] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\AboutController.php | строка: 20
+==============
+[2021-04-29 20:03:27] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\AboutController.php | строка: 20
+==============
+[2021-04-29 20:05:20] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\AboutController.php | строка: 20
+==============
+[2021-04-29 20:06:07] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\AboutController.php | строка: 20
+==============
+[2021-04-29 20:06:16] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\AboutController.php | строка: 20
+==============
+[2021-04-29 20:06:21] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:06:21] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:06:21] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:06:21] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:06:21] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:06:32] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\AboutController.php | строка: 20
+==============
+[2021-04-29 20:07:09] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\AboutController.php | строка: 20
+==============
+[2021-04-29 20:10:23] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\AboutController.php | строка: 20
+==============
+[2021-04-29 20:10:53] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\AboutController.php | строка: 20
+==============
+[2021-04-29 20:11:07] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\AboutController.php | строка: 20
+==============
+[2021-04-29 20:11:22] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\views\About\index.php | строка: 13
+==============
+[2021-04-29 20:57:33] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:57:33] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:57:33] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:57:33] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:57:33] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:57:41] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:57:46] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:57:46] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:57:46] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:57:46] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 20:57:46] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:02:07] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:05:08] Текст ошибки: Контроллер <b>app\controllers\DetailsController</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 100
+==============
+[2021-04-29 21:05:12] Текст ошибки: Контроллер <b>app\controllers\DetailsController</b> не найден | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 100
+==============
+[2021-04-29 21:05:17] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:07:09] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:08:18] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:09:27] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:15:03] Текст ошибки: Undefined index: id | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\AboutController.php | строка: 20
+==============
+[2021-04-29 21:15:29] Текст ошибки: Cannot use [] for reading | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\app\controllers\AboutController.php | строка: 20
+==============
+[2021-04-29 21:16:18] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:16:18] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:16:18] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:16:18] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:16:18] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:46:48] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:46:48] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:46:48] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:49:47] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:50:02] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:50:12] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:50:15] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:50:26] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:50:36] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:50:46] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:50:57] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:51:09] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:51:20] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:51:23] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:51:38] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:51:46] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:52:13] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:52:22] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:52:56] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:53:11] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:53:17] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:53:47] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:53:49] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:53:52] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:54:26] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 21:54:36] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:12:27] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:36:42] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:36:42] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:36:43] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:36:43] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:36:43] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:37:04] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:37:07] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:37:20] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:37:28] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:37:36] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:37:46] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:37:50] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:38:01] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
+[2021-04-29 22:38:04] Текст ошибки: Страница не найдена | файл: C:\open_server_5_2_9_ultimate\OSPanel\domains\fw.loc\vendor\fw\core\Router.php | строка: 103
+==============
